@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719394823985",
+    "firebase_url": "https://alp-travels-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "alp-travels",
+    "storage_bucket": "alp-travels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719394823985:android:319a5d10f5feda7736da10",
+        "android_client_info": {
+          "package_name": "com.example.murarikrishnabts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719394823985-elc8lqh86ngr7q551ja5lmolceek7k44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Wm7c5pMhgKt07BxnVxwr47oWmnbJne4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719394823985-3a57s83gp9gb5ngvo5setnp9g6n31cbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
